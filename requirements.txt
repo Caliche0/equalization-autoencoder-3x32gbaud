@@ -1,4 +1,4 @@
-numpy==2.3.5
+numpy
 optuna==4.2.0
 pandas==2.3.1
 pyarrow==22.0.0
